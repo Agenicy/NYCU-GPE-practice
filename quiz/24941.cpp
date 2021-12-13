@@ -68,7 +68,7 @@ int main(int argc, char const *argv[])
         }
         result += c;
     }
-    result[result.length() - 1] = '\0';
+
     cout << result << endl;
 
     return 0;
